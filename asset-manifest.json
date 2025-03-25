@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PortCurric/static/css/main.4b6cd0b3.css",
+    "main.js": "/PortCurric/static/js/main.7c70126d.js",
+    "static/js/488.e75445ad.chunk.js": "/PortCurric/static/js/488.e75445ad.chunk.js",
+    "index.html": "/PortCurric/index.html",
+    "main.4b6cd0b3.css.map": "/PortCurric/static/css/main.4b6cd0b3.css.map",
+    "main.7c70126d.js.map": "/PortCurric/static/js/main.7c70126d.js.map",
+    "488.e75445ad.chunk.js.map": "/PortCurric/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6cd0b3.css",
+    "static/js/main.7c70126d.js"
+  ]
+}
