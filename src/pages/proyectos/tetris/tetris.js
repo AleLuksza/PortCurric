@@ -5,7 +5,7 @@ const Tetris = () => {
     return(
         <div className="contenTetris">
             <aside className="imagenTetris">
-            <img src="/imagenes/CapturaTetris.png" alt="Tetris Screenshot" />
+            <img src={`${process.env.PUBLIC_URL}/imagenes/CapturaTetris.png`} alt="Tetris Screenshot" />
 
             </aside>
             <main className="descripTetris">
