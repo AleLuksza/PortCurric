@@ -7,6 +7,7 @@ const Calculadora = () => {
             <aside className="imagenTetris">
             <img src={`${process.env.PUBLIC_URL}/imagenes/CapturaCalcu.png`} alt="Calculator Screenshot" />
 
+
             </aside>
             <main className="descripTetris">
                 <h3>Calculadora basica</h3>
